@@ -47,7 +47,7 @@
 .blob{
     position: absolute;
     left: 28%;
-    top: 155px;
+    top: 50%;
     width: 210px;
     opacity: .8;
 }
