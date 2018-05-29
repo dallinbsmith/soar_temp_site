@@ -1,0 +1,57 @@
+.top_purple{
+    background-color: #71549b;
+    height: 8px;
+}
+.logo_container{
+    margin: 40px;
+}
+.logo{
+    width: 130px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%)
+}
+.social_container{
+    height: 70px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
+.icons{
+    margin: 3px;
+    margin-top: 10px;
+}
+.pic_container{
+    height: 370px;
+    width: 320px;
+    margin: 10px;
+    border-radius: .5rem;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #957bbe;
+    margin-top: 40px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.text_container{
+    width: 245px;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+}
+
+.blob{
+    position: absolute;
+    left: 28%;
+    top: 155px;
+    width: 210px;
+    opacity: .8;
+}
+
+.paul_image{
+    margin-bottom:25px;
+}
